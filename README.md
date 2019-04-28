@@ -15,3 +15,7 @@ Mind map for Scrum.
 # XP Programming
 Mind map for XP Programming.
 ![srp](https://github.com/xd43vild69/Developer-Mind-Maps/blob/master/XP%20Programing.png?raw=true "XPProgramming")
+
+# .NetFramework
+Mind map for Dot NetFramework.
+![srp](https://github.com/xd43vild69/Developer-Mind-Maps/blob/master/.NetFramework.png?raw=true "NetFramework")
