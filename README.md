@@ -8,3 +8,6 @@ Mind map for design patterns.
 Mind map for Software Design.
 ![srp](https://github.com/xd43vild69/DesignPatterns/blob/master/SoftwareDesign.png?raw=true "SoftwareDesign")
 
+# Scrum
+Mind map for Scrum.
+![srp](https://github.com/xd43vild69/Developer-Mind-Maps/blob/master/Scrum.png?raw=true "SoftwareDesign")
