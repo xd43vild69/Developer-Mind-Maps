@@ -11,3 +11,7 @@ Mind map for Software Design.
 # Scrum
 Mind map for Scrum.
 ![srp](https://github.com/xd43vild69/Developer-Mind-Maps/blob/master/Scrum.png?raw=true "SoftwareDesign")
+
+# XP Programming
+Mind map for XP Programming.
+![srp](https://github.com/xd43vild69/Developer-Mind-Maps/blob/master/XP%20Programing.png?raw=true "XPProgramming")
