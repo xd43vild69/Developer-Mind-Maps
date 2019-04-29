@@ -19,3 +19,7 @@ Mind map for XP Programming.
 # .NetFramework
 Mind map for Dot NetFramework.
 ![srp](https://github.com/xd43vild69/Developer-Mind-Maps/blob/master/.NetFramework.png?raw=true "NetFramework")
+
+# Domain-driven design
+Mind map for Domain-driven design.
+![srp](https://github.com/xd43vild69/Developer-Mind-Maps/blob/master/DDD.png?raw=true "Domain-drivenDesign")
